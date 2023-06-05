@@ -1,3 +1,7 @@
 <resources>
+
+    <string name="user_fragment">User Fragment</string>
     <string name="app_name">Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home_fragment">Home Fragment</string>
 </resources>
